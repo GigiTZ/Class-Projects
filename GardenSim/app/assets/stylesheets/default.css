@@ -86,7 +86,7 @@ form label {
   color: maroon;
 }
 ul {
-  margin: 0 0 15px;
+  margin: 0;
   padding: 0px;
   position: static;
   list-style-type: none;
